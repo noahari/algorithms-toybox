@@ -1,0 +1,13 @@
+Considering the data points I found, it is worth noting that the initial figure, 
+while accurtely showing the scale of each algorithm's runtime, fails to show the actual trend
+of insertion sort's runtime. In order to show insertion sort alongside the other algorithms despite
+its disproportionately high runtime I included a log scale plot as well.
+
+The data points I found generally confirm the values of each algorithm's runtime, 
+as is particularly notable with insertion sort whose runtime is linear, resulting
+in the significantly higher y-values it has as opposed to the other algorithms 
+which are all linearithmic and had very similiar and often approximately the same runtimes.
+
+Furthermore, the plotted trends align with the expected function of their runtimes
+against input array size. The randomized quick sort also has, on average, the fastest
+runtime of all tested algorithms which aligns with class and industry based expectations.

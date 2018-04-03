@@ -1,0 +1,79 @@
+Array Size
+1
+Insertion Sort avg runtime
+625
+Merge Sort avg runtime
+625
+Heap Sort avg runtime
+468
+Quick Sort avg runtime
+625
+Randomzied Quick Sort avg runtime
+468
+
+Array Size
+1024
+Insertion Sort avg runtime
+624
+Merge Sort avg runtime
+624
+Heap Sort avg runtime
+468
+Quick Sort avg runtime
+624
+Randomzied Quick Sort avg runtime
+468
+------------------------------------------
+
+Array Size
+1
+Insertion Sort avg runtime
+781
+Merge Sort avg runtime
+1093
+Heap Sort avg runtime
+312
+Quick Sort avg runtime
+937
+Randomzied Quick Sort avg runtime
+625
+
+Array Size
+32768
+Insertion Sort avg runtime
+1093
+Merge Sort avg runtime
+1249
+Heap Sort avg runtime
+312
+Quick Sort avg runtime
+937
+Randomzied Quick Sort avg runtime
+781
+----------------------------------------
+Array Size
+1
+Insertion Sort avg runtime
+781
+Merge Sort avg runtime
+468
+Heap Sort avg runtime
+937
+Quick Sort avg runtime
+781
+Randomzied Quick Sort avg runtime
+156
+
+Array Size
+1048576
+Insertion Sort avg runtime
+609409
+Merge Sort avg runtime
+2187
+Heap Sort avg runtime
+2499
+Quick Sort avg runtime
+2187
+Randomzied Quick Sort avg runtime
+1249
+----------------------------
